@@ -20,4 +20,6 @@ This is a fun little project to exxperiment with procedural terrain generation a
 ### 5. Caves
 - When below a height threshold, create cave system
 - Utilisation of marching cubes
+
+*Optional goals
  
