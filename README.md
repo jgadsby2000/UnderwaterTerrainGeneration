@@ -2,7 +2,7 @@
 
 This is a fun little project to exxperiment with procedural terrain generation and environment building in Unity
 
-## Project Milsestones
+## Project Milestones
 ### 1. Successfully integrate unity project onto the webpage
 ### 2. Complete terrain generation
 - Perlin Noise
